@@ -34,4 +34,5 @@ A IA não substitui o Product Manager, mas pode ser sua melhor assistente. Algum
 Se você também acredita que IA pode transformar o papel de quem constrói produtos, fique à vontade para explorar, contribuir ou conversar. Vamos evoluir juntos!
 
 📫 Contato: allan.dnox@gmail.com
-🔗 LinkedIn: linkedin.com/in/allandegasperi
+
+🔗 LinkedIn: https://www.linkedin.com/in/allandegasperi
