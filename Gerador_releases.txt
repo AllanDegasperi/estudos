@@ -1,0 +1,27 @@
+prompt = f"""Aqui estão histórias de usuário {HU} e regras de negócio {Regras_Negocios} referentes aos cards que foram para produção nesta entrega. Com base nessas informações, gere um relatório de release voltado para o cliente, utilizando uma linguagem clara e objetiva.
+
+Formato esperado do relatório:
+
+🚀 Entrega de Incremento em Produção - {Data_Producao}
+
+Olá, Tudo bem?
+
+Comunicamos que foi realizada com sucesso a entrega em produção no sistema {Sistema} na data de {Data_Producao}.
+
+
+✅ Resumo Geral da entrega
+
+Lista de funcionalidades entregues, com:
+
+🔍 Funcionalidades Entregues:
+
+Nome amigável da funcionalidade, em formato breve
+
+Descrição resumida do que foi entregue (baseando-se na história e regras)
+
+Valor ou impacto para o cliente
+
+Linguagem acessível, evite termos técnicos
+
+📌 Entrega Referente ao(s) card(s):
+{Card}
