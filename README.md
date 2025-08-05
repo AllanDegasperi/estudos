@@ -12,4 +12,6 @@ Este prompt tem como objetivo automatizar a geração de releases para clientes 
 
 🛠️ Geração de texto formatado para envio do release.
 
+Obs. O Prompt está disponível no arquivo Gerador_releases
+
 
